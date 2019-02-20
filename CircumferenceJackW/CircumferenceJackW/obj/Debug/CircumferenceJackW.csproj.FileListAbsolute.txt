@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Unit 1 (Problem Solving)\CircumferenceJackW\CircumferenceJackW\bin\Debug\CircumferenceJackW.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Unit 1 (Problem Solving)\CircumferenceJackW\CircumferenceJackW\bin\Debug\CircumferenceJackW.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Unit 1 (Problem Solving)\CircumferenceJackW\CircumferenceJackW\bin\Debug\CircumferenceJackW.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Unit 1 (Problem Solving)\CircumferenceJackW\CircumferenceJackW\obj\Debug\CircumferenceJackW.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Unit 1 (Problem Solving)\CircumferenceJackW\CircumferenceJackW\obj\Debug\CircumferenceJackW.CircumferenceForm.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Unit 1 (Problem Solving)\CircumferenceJackW\CircumferenceJackW\obj\Debug\CircumferenceJackW.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Unit 1 (Problem Solving)\CircumferenceJackW\CircumferenceJackW\obj\Debug\CircumferenceJackW.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Unit 1 (Problem Solving)\CircumferenceJackW\CircumferenceJackW\obj\Debug\CircumferenceJackW.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Unit 1 (Problem Solving)\CircumferenceJackW\CircumferenceJackW\obj\Debug\CircumferenceJackW.pdb
